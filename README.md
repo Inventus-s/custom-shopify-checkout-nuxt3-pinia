@@ -142,5 +142,6 @@ This project is licensed under the *MIT License* - see the [LICENSE](LICENSE) fi
 [Back to Top](#-table-of-contents)
 
 For inquiries, custom checkout solutions, or business services, please contact us:
-- Email: mailto:info@suretekinfosoft.com
-- Website: https://suretekinfosoft.com
+- Email: mailto:handle.extras@gmail.com
+- Website: https://mukundkumar.vercel.app/
+- Linkden: https://www.linkedin.com/in/inventus/
