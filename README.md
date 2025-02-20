@@ -1,0 +1,2 @@
+# Custom-Shopify-Checkout-Optimized-eCommerce-Payment-Flow
+A custom, high-performance Shopify checkout built with Nuxt 3 and Pinia for state management. Features dynamic pricing, real-time shipping, and optimized UI rendering. Designed with a modular, secure architecture for scalability and seamless eCommerce integration. Enhance your Shopify store with a faster, more flexible checkout experience.
